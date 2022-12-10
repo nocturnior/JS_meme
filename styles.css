@@ -1,0 +1,12 @@
+/* css에서 캔버스 크기 설정 -> 이후에는 js에서만 바꿈 ㅋ */
+canvas {
+  width: 800px;
+  height: 800px;
+  border: 1px solid #aaa;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
